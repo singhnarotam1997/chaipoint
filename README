@@ -1,0 +1,14 @@
+To build:
+gradle build or gradlew build
+
+To run:
+gradle run or gradlew run. This will also run all the test cases.
+
+
+Change quantity and beverages info in resources/application.json
+
+All the test cases are written in Tests.java
+
+Output will be printed on console.
+ 
+ 
